@@ -13,3 +13,7 @@ W
 'contracts/methodology-verification.clar,9/5/95d3ab4bedb20c015d43bcd895d70884fc8ed768
 V
 &tests/methodology-verification.test.ts,2/2/221fb0608dfc51655e84d9e62f0751d1d03ef0da
+V
+&contracts/reduction-certification.clar,6/e/6e6d6c125664fd988e24fd88f39b75b260119061
+U
+%tests/reduction-certification.test.ts,1/7/175af881f90f7f0c812f595f2be327fa5d5a0b75
