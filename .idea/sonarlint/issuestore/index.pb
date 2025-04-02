@@ -7,3 +7,5 @@ Q
 !tests/emissions-reporting.test.ts,1/a/1a434b6e8e7b4b6d993b643902e976380432f9e4
 R
 "contracts/entity-registration.clar,f/f/ff4e5fc7df9830eadb18ee06ebe8e95d97426040
+Q
+!tests/entity-registration.test.ts,6/1/61511a6bdb137fe371368440f0fed4d8b5c6252c
